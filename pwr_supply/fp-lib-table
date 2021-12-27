@@ -1,3 +1,4 @@
 (fp_lib_table
-  (lib (name dk_st_fp)(type KiCad)(uri D:/Repos/kicad_course/pwr_supply/lib/digikey-footprint.pretty)(options "")(descr ""))
+  (lib (name dk_st_fp)(type KiCad)(uri ${KIPRJMOD}/lib/digikey-footprint.pretty)(options "")(descr ""))
+  (lib (name logo)(type KiCad)(uri ${KIPRJMOD}/lib/logo)(options "")(descr ""))
 )
